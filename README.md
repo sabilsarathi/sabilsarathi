@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sabil Sarathi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8E54E9&height=180&section=header&text=Sabil%20Sarathi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 **Full Stack Python Developer &nbsp;|&nbsp; Electrical & Electronics Engineer**
 
@@ -43,24 +43,16 @@
 
 <br>
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sabilsarathi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabilsarathi&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=sabilsarathi&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
 ## Focus Areas
 
 <div align="center">
 
-`Web Development` &nbsp;·&nbsp; `Python & Django` &nbsp;·&nbsp; `IoT` &nbsp;·&nbsp; `Embedded Systems` &nbsp;·&nbsp; `Full Stack Development`
+<img src="https://img.shields.io/badge/Web%20Development-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Python%20%26%20Django-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/IoT-2EC4B6?style=for-the-badge&logo=internetarchive&logoColor=white" />
+<br><br>
+<img src="https://img.shields.io/badge/Embedded%20Systems-FF9F1C?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-8E54E9?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 </div>
 
